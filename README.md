@@ -1,6 +1,6 @@
-# FH WiFi Generator
+# FH Generator
 
-FH WiFi Generator adalah tool berbasis web untuk membantu menghasilkan password default WiFi FiberHome (FH) berdasarkan SSID jaringan. Tool ini dirancang khusus untuk mengenali pola konfigurasi bawaan router FiberHome yang masih menggunakan pengaturan default pabrik.
+FH Generator adalah tool berbasis web untuk membantu menghasilkan password default WiFi FiberHome (FH) berdasarkan SSID jaringan. Tool ini dirancang khusus untuk mengenali pola konfigurasi bawaan router FiberHome yang masih menggunakan pengaturan default pabrik.
 
 🌐 Akses Tool:  
 👉 http://fhgenerator.somee.com
